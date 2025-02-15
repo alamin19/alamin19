@@ -26,13 +26,13 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://scientistigwe.github.io/Personal-Profile/"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:scientistigwe@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/scientistigwe"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/scientistigwe"><img src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white"/></a><a href="https://twitter.com/ScientistIgwe_"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/scientistigwe/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
-<a href="https://clubhouse.com/@scientistigwe/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
-</p><br><br>
+<a href="#"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:lisanalamin@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/alamin19"><img src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
+
+</p><br>
 
 <p align = "center">
   <kbd>
